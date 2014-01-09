@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-name = "Matt Duffy"
+name = "Kathy Wu"
 
 3.times do
   puts name
